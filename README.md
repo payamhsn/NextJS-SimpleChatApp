@@ -86,4 +86,6 @@ npm run start
 - Text messages are sanitized and sending is rate-limited.
 
 ## License
-MIT (add a LICENSE file before publishing).
+Nothing. I
+
+I make this repository while experimenting Trae Solo feature.
